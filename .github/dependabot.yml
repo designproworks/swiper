@@ -1,3 +1,4 @@
+
  - package-ecosystem: npm
     directory: "/"
     schedule:
